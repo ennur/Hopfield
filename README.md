@@ -1,2 +1,2 @@
 # Hopfield
-Hopfield ağı ile örüntü tanıma 
+Pattern recognition with the Hopfield network
